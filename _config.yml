@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Headshot_Marc.jpg"
+  avatar           : "headshot_marc.jpg"
   name             : "Marc Metcalf"
   pronouns         : # example: "she/her"  
   bio              : "Data Science and Analytics Graduate Student"
